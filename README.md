@@ -47,4 +47,5 @@ python dashboard.py
 127.0.0.1:8050
 
 ## Demo
-![demo](https://github.com/bricknermon/ShodanDomainDashboard/assets/94518180/bd951353-1f0a-463c-a5a9-5243ae705eb1)
+![demo](https://github.com/bricknermon/ShodanDomainDashboard/assets/94518180/b55dc586-ea23-4bd0-b8ca-d2272c1d9d2c)
+
